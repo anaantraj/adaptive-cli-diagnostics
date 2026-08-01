@@ -1,1 +1,1 @@
-# no external dependencies, stdlib only
+# stdlib only, no external deps or reqs
