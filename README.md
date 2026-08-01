@@ -1,5 +1,5 @@
 # Adaptive CLI System Diagnostics & Configuration Tool
-# Author: Anaant Raj | CSE3011 Python Programming | MIT License 
+## Author: Anaant Raj | CSE3011 Python Programming | MIT License 
 
 A lightweight command-line tool for inspecting your system, running quick health checks, and managing local config, all from one interactive menu. No dependencies, no setup, just Python.
 
